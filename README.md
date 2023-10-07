@@ -18,6 +18,7 @@ Project: Linear Regression.
 | Extract Data .xlsx to system | A automation project to extract data from invoices and store in some software, internet banking, etc... |
 | Extract .dat, .fid and .idx to .xlsx to system | A automation project to extract data from invoices and store in some software, internet banking, etc... |
 | Manging Queue in Business | A engine of Waiting Room in a Bank or Another place to making service order |
+| Scraping Court Data | Scraping data from Tribunal de Justiça do Estado de São Paulo e gerando planilha de dados |
 
 
 ## How to use this repo
