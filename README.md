@@ -20,6 +20,7 @@ Project: Linear Regression.
 | Manging Queue in Business | A engine of Waiting Room in a Bank or Another place to making service order |
 | Scraping Court Data | Scraping data from Tribunal de Justiça do Estado de São Paulo e gerando planilha de dados |
 | Data Pipeline | Serving data for DataScience Team and Business Intelligence Team with MongoDB, Python and MySQL |
+| Pandas IO | Handle many types of archives using Pandas library |
 
 
 ## How to use this repo
