@@ -21,6 +21,7 @@ Project: Linear Regression.
 | Scraping Court Data | Scraping data from Tribunal de Justiça do Estado de São Paulo e gerando planilha de dados |
 | Data Pipeline | Serving data for DataScience Team and Business Intelligence Team with MongoDB, Python and MySQL |
 | Pandas IO | Handle many types of archives using Pandas library |
+| Numpy handles | Study of documentation about Numpy library |
 
 
 ## How to use this repo
